@@ -1,4 +1,11 @@
 #!/usr/bin/perl
+# ----------------------------------------------------------------------------
+# "THE BEER-WARE LICENSE" (Revision 42):
+# lofi schrieb diese Datei. Solange Sie diesen Vermerk nicht entfernen,
+# können Sie mit der Datei machen, was Sie möchten. 
+# Wenn wir uns eines Tages treffen und Sie denken, die Datei ist es wert, 
+# können Sie mir dafür ein Bier bzw. eine Mate ausgeben.
+# ----------------------------------------------------------------------------
 
 use strict;
 

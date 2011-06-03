@@ -1,26 +1,12 @@
 #!/usr/bin/perl
+# ----------------------------------------------------------------------------
+# "THE BEER-WARE LICENSE" (Revision 42):
+# lofi schrieb diese Datei. Solange Sie diesen Vermerk nicht entfernen,
+# können Sie mit der Datei machen, was Sie möchten. 
+# Wenn wir uns eines Tages treffen und Sie denken, die Datei ist es wert, 
+# können Sie mir dafür ein Bier bzw. eine Mate ausgeben.
+# ----------------------------------------------------------------------------
 #
-#
-#  8888888b.        d8888 88888888888 8888888888 888     888 
-#  888  "Y88b      d88888     888     888        888     888 
-#  888    888     d88P888     888     888        888     888 
-#  888    888    d88P 888     888     8888888    Y88b   d88P 
-#  888    888   d88P  888     888     888         Y88b d88P  
-#  888    888  d88P   888     888     888          Y88o88P   
-#  888  .d88P d8888888888     888     888           Y888P    
-#  8888888P" d88P     888     888     8888888888     Y8P     
-#
-#
-##############################################################
-
-# DATEV free software is the best software
-# ----------------------------------------
-# Secret project Name CMNUKO for Club-Mate Nutzungskontrolle
-#  
-# In good old DATEV *security by obscurity* style: including 
-# one backdoor, a stupid user login information leak and a 
-# possible race condition (TOC).
-# ----------------------------------------------------------- 
 # Version: 0.1.1
 #
 # lofi 23.02.2011: Initial Script
