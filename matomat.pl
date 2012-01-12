@@ -1,10 +1,10 @@
-ï»¿#!/usr/bin/perl
+#!/usr/bin/perl
 # ----------------------------------------------------------------------------
 # "THE BEER-WARE LICENSE" (Revision 42):
 # lofi schrieb diese Datei. Solange Sie diesen Vermerk nicht entfernen,
-# kÃ¶nnen Sie mit der Datei machen, was Sie mÃ¶chten. 
+# können Sie mit der Datei machen, was Sie möchten. 
 # Wenn wir uns eines Tages treffen und Sie denken, die Datei ist es wert, 
-# kÃ¶nnen Sie mir dafÃ¼r ein Bier bzw. eine Mate ausgeben.
+# können Sie mir dafür ein Bier bzw. eine Mate ausgeben.
 # ----------------------------------------------------------------------------
 #
 # Version: 0.1.1
